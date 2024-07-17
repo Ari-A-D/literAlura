@@ -1,4 +1,4 @@
-<h1 align="center"> Encriptador </h1>
+<h1 align="center"> LiterAlura </h1>
 <p align="center">
   <img alt="JavaScript Badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img alt="JavaScript Badge" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
